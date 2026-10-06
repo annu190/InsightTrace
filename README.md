@@ -1,4 +1,4 @@
-# Hasamex Research Intelligence
+# INSIGHTTRACE– AI-POWERED INTERVIEW INTELLIGENCE
 
 An evidence-first AI research assistant for analyzing expert interviews about robotic surgery adoption across France, Germany, and the United Kingdom.
 
